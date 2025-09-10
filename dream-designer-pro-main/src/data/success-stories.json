@@ -1,0 +1,44 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "title": "Từ sinh viên IT đến CTO startup",
+      "field": "technology",
+      "image": "/api/placeholder/150/150",
+      "story": "Từ một sinh viên IT thường thường, An đã trở thành CTO của một startup công nghệ hàng đầu Việt Nam chỉ sau 5 năm làm việc.",
+      "achievement": "CTO tại TechViet Corp",
+      "journey": "Học tại FPT University → Junior Developer → Senior Developer → Tech Lead → CTO"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Hoa",
+      "title": "Từ y tá đến bác sĩ chuyên khoa",
+      "field": "healthcare", 
+      "image": "/api/placeholder/150/150",
+      "story": "Hoa bắt đầu với vai trò y tá, sau đó quyết tâm học thêm để trở thành bác sĩ chuyên khoa tim mạch.",
+      "achievement": "Bác sĩ chuyên khoa Tim mạch",
+      "journey": "Y tá → Học bổ sung → Bác sĩ đa khoa → Chuyên khoa Tim mạch"
+    },
+    {
+      "id": 3,
+      "name": "Lê Minh Đức",
+      "title": "Doanh nhân trẻ thành công",
+      "field": "business",
+      "image": "/api/placeholder/150/150",
+      "story": "Từ một nhân viên marketing, Đức đã tự khởi nghiệp và xây dựng công ty marketing với hơn 100 nhân viên.",
+      "achievement": "CEO Marketing Solutions Vietnam",
+      "journey": "Marketing Executive → Marketing Manager → Khởi nghiệp → CEO"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị Mai",
+      "title": "Từ giáo viên đến hiệu trưởng",
+      "field": "education",
+      "image": "/api/placeholder/150/150",
+      "story": "Mai đã dành 15 năm để phát triển từ giáo viên trẻ thành hiệu trưởng của một trường quốc tế.",
+      "achievement": "Hiệu trưởng Trường Quốc tế Việt Nam",
+      "journey": "Giáo viên → Tổ trưởng → Phó Hiệu trưởng → Hiệu trưởng"
+    }
+  ]
+}

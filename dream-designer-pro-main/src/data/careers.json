@@ -1,0 +1,70 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Kỹ sư Phần mềm",
+      "description": "Phát triển và bảo trì các ứng dụng phần mềm, làm việc với nhiều ngôn ngữ lập trình và framework khác nhau.",
+      "skills": ["JavaScript", "Python", "React", "Node.js", "Database"],
+      "education": "Cử nhân Công nghệ Thông tin hoặc tương đương",
+      "salary": "15-40 triệu VND/tháng",
+      "category": "technology",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 2,
+      "title": "Bác sĩ Đa khoa",
+      "description": "Chẩn đoán, điều trị và chăm sóc sức khỏe tổng quát cho bệnh nhân ở mọi lứa tuổi.",
+      "skills": ["Kiến thức y học", "Kỹ năng giao tiếp", "Tư duy phân tích", "Khả năng làm việc dưới áp lực"],
+      "education": "Bằng Bác sĩ Y khoa + Chứng chỉ hành nghề",
+      "salary": "20-50 triệu VND/tháng",
+      "category": "healthcare",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 3,
+      "title": "Chuyên viên Marketing Digital",
+      "description": "Xây dựng và thực hiện các chiến lược marketing trực tuyến, quản lý mạng xã hội và phân tích dữ liệu.",
+      "skills": ["Google Analytics", "Facebook Ads", "Content Writing", "SEO/SEM", "Photoshop"],
+      "education": "Cử nhân Marketing, Truyền thông hoặc tương đương",
+      "salary": "8-25 triệu VND/tháng",
+      "category": "business",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 4,
+      "title": "Kế toán Trưởng",
+      "description": "Quản lý tài chính, lập báo cáo kế toán và đảm bảo tuân thủ các quy định pháp lý về tài chính.",
+      "skills": ["Excel", "Phần mềm kế toán", "Phân tích tài chính", "Quản lý ngân sách"],
+      "education": "Cử nhân Kế toán + Chứng chỉ CPA",
+      "salary": "12-35 triệu VND/tháng",
+      "category": "business",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 5,
+      "title": "Nhà thiết kế UX/UI",
+      "description": "Thiết kế giao diện và trải nghiệm người dùng cho các ứng dụng web và mobile.",
+      "skills": ["Figma", "Adobe Creative Suite", "Prototyping", "User Research", "Wireframing"],
+      "education": "Cử nhân Thiết kế hoặc tương đương",
+      "salary": "10-30 triệu VND/tháng",
+      "category": "technology",
+      "image": "/api/placeholder/300/200"
+    },
+    {
+      "id": 6,
+      "title": "Giáo viên Tiểu học",
+      "description": "Giảng dạy và hướng dẫn học sinh tiểu học, phát triển chương trình giáo dục phù hợp.",
+      "skills": ["Kỹ năng sư phạm", "Quản lý lớp học", "Giao tiếp", "Kiên nhẫn", "Sáng tạo"],
+      "education": "Cử nhân Sư phạm + Chứng chỉ hành nghề giáo viên",
+      "salary": "7-18 triệu VND/tháng",
+      "category": "education",
+      "image": "/api/placeholder/300/200"
+    }
+  ],
+  "categories": [
+    { "id": "technology", "name": "Công nghệ", "count": 2 },
+    { "id": "healthcare", "name": "Chăm sóc sức khỏe", "count": 1 },
+    { "id": "business", "name": "Kinh doanh", "count": 2 },
+    { "id": "education", "name": "Giáo dục", "count": 1 }
+  ]
+}

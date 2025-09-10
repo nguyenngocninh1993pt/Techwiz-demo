@@ -1,0 +1,48 @@
+{
+  "multimedia": [
+    {
+      "id": 1,
+      "title": "Làm thế nào để trở thành một lập trình viên thành công",
+      "description": "Chia sẻ từ chuyên gia về con đường học tập và phát triển trong lĩnh vực lập trình.",
+      "type": "video",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "15 phút",
+      "category": "technology",
+      "userType": "postgraduate",
+      "thumbnail": "/api/placeholder/400/225"
+    },
+    {
+      "id": 2,
+      "title": "Xu hướng nghề nghiệp trong y tế 2024",
+      "description": "Podcast thảo luận về các cơ hội nghề nghiệp mới trong lĩnh vực chăm sóc sức khỏe.",
+      "type": "podcast",
+      "url": "https://example.com/podcast",
+      "duration": "30 phút",
+      "category": "healthcare",
+      "userType": "all",
+      "thumbnail": "/api/placeholder/400/225"
+    },
+    {
+      "id": 3,
+      "title": "Kỹ năng mềm cần thiết cho sinh viên",
+      "description": "Video hướng dẫn các kỹ năng cần thiết để chuẩn bị cho môi trường làm việc.",
+      "type": "video",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "12 phút",
+      "category": "general",
+      "userType": "student",
+      "thumbnail": "/api/placeholder/400/225"
+    },
+    {
+      "id": 4,
+      "title": "Chuyển đổi nghề nghiệp sau tuổi 30",
+      "description": "Chia sẻ kinh nghiệm và lời khuyên cho những ai muốn thay đổi ngành nghề.",
+      "type": "video",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "20 phút",
+      "category": "general",
+      "userType": "professional",
+      "thumbnail": "/api/placeholder/400/225"
+    }
+  ]
+}
